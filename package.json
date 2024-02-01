@@ -2,7 +2,7 @@
   "name": "deploying-the-server",
   "version": "1.0.0",
   "engines": {
-    "node": "12.13.0"
+    "node": "21.0.0"
   },
   "description": "",
   "main": "server.js",
